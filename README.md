@@ -1,9 +1,6 @@
 # Yip-Coin
 This project was taken to understand more about Web 3.0 and how to build smart contracts on the Ethereum blockchain.
 
+This is till in progrees.
 
-### How to Run
-1. Clone the repository
-2. cd backend_defi and run yarn to install dependencies
-3. Run yarn hardhat node to spin up a loacl blockchain 
-4. cd back into main directory
+I will come back to this at a later time
