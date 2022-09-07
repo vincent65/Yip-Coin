@@ -1,0 +1,3 @@
+const tokenAddress = await ethers.getContract("RewardToken")
+stakingContract.address
+const stakingContract = await ethers.getContract("Staking")
